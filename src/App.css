@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  background: #fafbfc; 
+  background: -webkit-linear-gradient(to right, #f8f9f9, #f7f9fb); 
+  /* background: linear-gradient(to right, #f4f4f8, #f8f9fa); */
+  }
+
+label {
+  font-size: .7rem;
+}
+
+input.form-control, input.form-control:focus {
+  background: #F0F0FF;
+}
+
+.error {
+  position: absolute;
+  color: red;
+  font-size: .6rem;
+}
+.text_1{
+  text-align: center;
+  font-size: .6rem;
+}
